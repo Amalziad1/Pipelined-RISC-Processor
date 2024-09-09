@@ -1,0 +1,13 @@
+[Version]
+Version=15.0
+[Designs]
+model=.\model\model.adf
+[Browser]
+sort=order
+mode=desc
+[Order]
+order=1
+[Expand]
+model=1
+[Settings]
+Active=model

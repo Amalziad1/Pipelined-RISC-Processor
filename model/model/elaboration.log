@@ -1,0 +1,45 @@
+Active-HDL 15.0.261.9132 2024-06-25 10:59:59
+
+Elaboration top modules:
+Verilog Module                datapath_tb
+
+
+-------------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version          | Compilation Options
+-------------------------------------------------------------------------------------------
+datapath_tb             | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+datapath                | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+returnLogic             | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+InstructionMemory       | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+instruction_decoder     | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+IF_ID                   | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+ID_EX                   | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+Extender                | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+EX_MEM                  | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+jumpLogic               | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+add2                    | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+MUX4to1                 | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+PCReg                   | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+addImmToPC              | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+branchLogic             | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+signalsControlUnit      | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+HazardForwardStallUnit  | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+register_file           | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+mux2x1Rd                | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+alu                     | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+MUX2to1                 | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+ByteAddressableMemory   | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+MEM_WB                  | model   |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+Library                 | Comment
+-------------------------------------------------------------------------------------------
+model                   | None
+-------------------------------------------------------------------------------------------
+
+
+Simulation Options: vsim +access +r work.datapath_tb
+
+
+The performance of simulation is reduced. Version Student Edition

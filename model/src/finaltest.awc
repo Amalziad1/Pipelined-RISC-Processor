@@ -1,0 +1,127 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="LOCAL___9e01776691856c292700">finaltest.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/datapath_tb/uut/rst</signal>
+        <signal>/datapath_tb/uut/clk</signal>
+        <signal>/datapath_tb/uut/stall</signal>
+        <signal>/datapath_tb/uut/selectedRd</signal>
+        <signal>/datapath_tb/uut/rs2IFID</signal>
+        <signal>/datapath_tb/uut/rs1IFID</signal>
+        <signal>/datapath_tb/uut/regWrite</signal>
+        <signal>/datapath_tb/uut/regBMem</signal>
+        <signal>/datapath_tb/uut/regBIDEX</signal>
+        <signal>/datapath_tb/uut/regBEx</signal>
+        <signal>/datapath_tb/uut/regB</signal>
+        <signal>/datapath_tb/uut/regAIDEX</signal>
+        <signal>/datapath_tb/uut/regA</signal>
+        <signal>/datapath_tb/uut/readData2</signal>
+        <signal>/datapath_tb/uut/readData1</signal>
+        <signal>/datapath_tb/uut/rdIFID</signal>
+        <signal>/datapath_tb/uut/opcodeIFID</signal>
+        <signal>/datapath_tb/uut/opcode</signal>
+        <signal>/datapath_tb/uut/modeOut</signal>
+        <signal>/datapath_tb/uut/mode</signal>
+        <signal>/datapath_tb/uut/memToReg</signal>
+        <signal>/datapath_tb/uut/jumpSignal</signal>
+        <signal>/datapath_tb/uut/jumpPC</signal>
+        <signal>/datapath_tb/uut/jmpOffsetIFID</signal>
+        <signal>/datapath_tb/uut/jmpOffset</signal>
+        <signal>/datapath_tb/uut/instruction</signal>
+        <signal>/datapath_tb/uut/imm_outIDEX</signal>
+        <signal>/datapath_tb/uut/immType</signal>
+        <signal>/datapath_tb/uut/forwardB</signal>
+        <signal>/datapath_tb/uut/forwardA</signal>
+        <signal>/datapath_tb/uut/flush</signal>
+        <signal>/datapath_tb/uut/extendedImmBranch</signal>
+        <signal>/datapath_tb/uut/extendedImm</signal>
+        <signal>/datapath_tb/uut/extOp</signal>
+        <signal>/datapath_tb/uut/dataOut</signal>
+        <signal>/datapath_tb/uut/dataIn</signal>
+        <signal>/datapath_tb/uut/currentPCoutIFID</signal>
+        <signal>/datapath_tb/uut/currentPC</signal>
+        <signal>/datapath_tb/uut/branchSignal</signal>
+        <signal>/datapath_tb/uut/branchPC</signal>
+        <signal>/datapath_tb/uut/aluResultMem</signal>
+        <signal>/datapath_tb/uut/S_immediateIFID</signal>
+        <signal>/datapath_tb/uut/S_immediate</signal>
+        <signal>/datapath_tb/uut/Rs2</signal>
+        <signal>/datapath_tb/uut/Rs1</signal>
+        <signal>/datapath_tb/uut/RegWrtie_out_IDEX</signal>
+        <signal>/datapath_tb/uut/RegWrite_out_MEMWB</signal>
+        <signal>/datapath_tb/uut/RegWrite_out_EXMEM</signal>
+        <signal>/datapath_tb/uut/RegDst</signal>
+        <signal>/datapath_tb/uut/RdOut</signal>
+        <signal>/datapath_tb/uut/RdMem</signal>
+        <signal>/datapath_tb/uut/RdEx</signal>
+        <signal>/datapath_tb/uut/Rd</signal>
+        <signal>/datapath_tb/uut/PCwrite</signal>
+        <signal>/datapath_tb/uut/PCsrcSignal</signal>
+        <signal>/datapath_tb/uut/PCplus2</signal>
+        <signal>/datapath_tb/uut/PCnext</signal>
+        <signal>/datapath_tb/uut/PCR7</signal>
+        <signal>/datapath_tb/uut/PCIFID</signal>
+        <signal>/datapath_tb/uut/MemWrite_out_IDEX</signal>
+        <signal>/datapath_tb/uut/MemWrite_out_EXMEM</signal>
+        <signal>/datapath_tb/uut/MemWrite</signal>
+        <signal>/datapath_tb/uut/MemToReg_out_IDEX</signal>
+        <signal>/datapath_tb/uut/MemToReg_out_EXMEM</signal>
+        <signal>/datapath_tb/uut/MemRead_out_IDEX</signal>
+        <signal>/datapath_tb/uut/MemRead_out_EXMEM</signal>
+        <signal>/datapath_tb/uut/MemRead</signal>
+        <signal>/datapath_tb/uut/MEMWB_RegWrite_out_MEMWB</signal>
+        <signal>/datapath_tb/uut/MEMWB_RegWrite_out_IDEX</signal>
+        <signal>/datapath_tb/uut/MEMWB_RegWrite_out_EXMEM</signal>
+        <signal>/datapath_tb/uut/MEMWB_RegWrite</signal>
+        <signal>/datapath_tb/uut/I_immediateIFID</signal>
+        <signal>/datapath_tb/uut/I_immediate</signal>
+        <signal>/datapath_tb/uut/IFIDwrite</signal>
+        <signal>/datapath_tb/uut/IDEX_MemRead_IDEX</signal>
+        <signal>/datapath_tb/uut/IDEX_MemRead</signal>
+        <signal>/datapath_tb/uut/EXMEM_RegWrite_out_IDEX</signal>
+        <signal>/datapath_tb/uut/EXMEM_RegWrite_out_EXMEM</signal>
+        <signal>/datapath_tb/uut/EXMEM_RegWrite</signal>
+        <signal>/datapath_tb/uut/ALUop</signal>
+        <signal>/datapath_tb/uut/ALU_out</signal>
+        <signal>/datapath_tb/uut/ALUSrcB_out_IDEX</signal>
+        <signal>/datapath_tb/uut/ALUSrcB</signal>
+        <signal>/datapath_tb/uut/ALUOp_out_IDEX</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="204220" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="98285" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>

@@ -1,0 +1,6 @@
+Repaired file: C:/Users/Administrator/AppData/Local/Temp/8cbcba50-d33d-474e-b37a-9084f6b91232_ARCH bara.zip.232/ARCH/naseem arc project/as/ALU.bde:
+
+____________________________________________________________________________________________________
+Synchronized generics in symbol controlUnit shape 37ecac8d-ad86-4a0f-97b4-c614d8efe6ff with library contents:
+	
+

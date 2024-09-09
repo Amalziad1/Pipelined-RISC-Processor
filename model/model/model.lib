@@ -1,0 +1,338 @@
+timestamp=1719302372958
+
+[~A]
+C:/My_Designs/projectLastUpdate/model/src/ALU.v_Ex_Mem.v_extender.v_ID_Ex.v_IF_ID.v_instructionDecoder.v_instructionMemory.v_Mem_Wb.v_mux2to1.v_mux4to1.v_PC_reg.v_registerFile.v_controlUnit.v_Memory.v_hazardDetect.v_jumpLogic.v_addImmToPC.v_returnLogic.v_dataPath.v_datapath_tb.v=0*108837*118565
+C:/My_Designs/projectLastUpdate/model/src/ALU.v_Ex_Mem.v_extender.v_ID_Ex.v_IF_ID.v_instructionDecoder.v_instructionMemory.v_Mem_Wb.v_mux2to1.v_mux4to1.v_PC_reg.v_registerFile.v_controlUnit.v_Memory.v_hazardDetect.v_jumpLogic.v_addImmToPC.v_returnLogic.v_dataPath.v_datapath_tb.v_branchLogic.v=0*150503*160245
+C:/My_Designs/projectLastUpdate/model/src/Ex_Mem.v=0*106411*107173
+C:/My_Designs/projectLastUpdate/model/src/ID_Ex.v=0*105040*105913
+C:/My_Designs/projectLastUpdate/model/src/Mem_Wb.v=0*107688*108322
+C:/My_Designs/projectLastUpdate/model/src/datapath_tb.v=0*99115*99626
+C:/My_Designs/projectLastUpdate/model/src/extender.v=0*121138*121710
+C:/My_Designs/projectLastUpdate/model/src/instructionDecoder.v=0*119533*120611
+C:/My_Designs/projectLastUpdate/model/src/instructionMemory.v=0*103901*104514
+C:/My_Designs/projectLastUpdate/model/src/instructionMemory.v_datapath_tb.v=0*101173*101944
+C:/My_Designs/projectLastUpdate/model/src/jumpLogic.v=0*100146*100655
+C:/My_Designs/projectLastUpdate/model/src/registerFile.v=0*102500*103380
+C:/Users/Administrator/Downloads/project (1)/project/model/src/ALU.v_Ex_Mem.v_extender.v_ID_Ex.v_IF_ID.v_instructionDecoder.v_instructionMemory.v_Mem_Wb.v_mux2to1.v_mux4to1.v_PC_reg.v_registerFile.v_controlUnit.v_Memory.v_hazardDetect.v_jumpLogic.v_addImmToPC.v_returnLogic.v_dataPath.v_datapath_tb.v=0*85436*93697
+C:/Users/Administrator/Downloads/project (1)/project/model/src/dataPath.v=0*94702*97456
+C:/Users/Administrator/Downloads/project (1)/project/model/src/datapath_tb.v=0*98010*98558
+C:/Users/Administrator/Downloads/project/model/src/ALU.v=0*50390*51190
+C:/Users/Administrator/Downloads/project/model/src/ALU.v_Ex_Mem.v_extender.v_ID_Ex.v_IF_ID.v_instructionDecoder.v_instructionMemory.v_Mem_Wb.v_mux2to1.v_mux4to1.v_PC_reg.v_registerFile.v_controlUnit.v_Memory.v_hazardDetect.v=0*40863*46168
+C:/Users/Administrator/Downloads/project/model/src/ID_Ex.v=0*47033*47627
+C:/Users/Administrator/Downloads/project/model/src/IF_ID.v=0*58492*59470
+C:/Users/Administrator/Downloads/project/model/src/Mem_Wb.v=0*61026*61557
+C:/Users/Administrator/Downloads/project/model/src/Memory.v=0*48150*48841
+C:/Users/Administrator/Downloads/project/model/src/PC_reg.v=0*53787*54366
+C:/Users/Administrator/Downloads/project/model/src/addImmToPC.v=0*52756*53259
+C:/Users/Administrator/Downloads/project/model/src/controlUnit.v=0*54890*56307
+C:/Users/Administrator/Downloads/project/model/src/instructionDecoder.v=0*56836*57940
+C:/Users/Administrator/Downloads/project/model/src/jumpLogic.v=0*51711*52229
+C:/Users/Administrator/Downloads/project/model/src/mux2to1.v=0*49365*49865
+C:/Users/Administrator/Downloads/project/model/src/registerFile.v=0*62081*62906
+C:/Users/Administrator/Downloads/project/model/src/returnLogic.v=0*59993*60481
+C:/Users/Lama/Downloads/project (2)/project/model/src/ALU.v_Ex_Mem.v_extender.v_ID_Ex.v_IF_ID.v_instructionDecoder.v_instructionMemory.v_Mem_Wb.v_mux2to1.v_mux4to1.v_PC_reg.v_registerFile.v_controlUnit.v_Memory.v_hazardDetect.v_jumpLogic.v_addImmToPC.v_returnLogic.v=0*64991*70946
+C:/Users/Lama/Downloads/project (2)/project/model/src/ALU.v_Ex_Mem.v_extender.v_ID_Ex.v_IF_ID.v_instructionDecoder.v_instructionMemory.v_Mem_Wb.v_mux2to1.v_mux4to1.v_PC_reg.v_registerFile.v_controlUnit.v_Memory.v_hazardDetect.v_jumpLogic.v_addImmToPC.v_returnLogic.v_dataPath.v=0*76440*84486
+C:/Users/Lama/Downloads/project (2)/project/model/src/IF_ID.v=0*63452*64465
+C:/Users/Lama/Downloads/project (2)/project/model/src/dataPath.v=0*73294*75911
+C:/Users/Lama/Downloads/project (2)/project/model/src/hazardDetect.v=0*71885*72761
+C:/Users/Lama/Downloads/project/project/model/src/ALU.v_Ex_Mem.v_extender.v_ID_Ex.v_IF_ID.v_instructionDecoder.v_instructionMemory.v_Mem_Wb.v_mux2to1.v_mux4to1.v_PC_reg.v_registerFile.v_controlUnit.v_Memory.v_hazardDetect.v=0*33310*38614
+C:/Users/Lama/Downloads/project/project/model/src/Mem_Wb.v=0*32209*32787
+C:/Users/Lama/Downloads/project/project/model/src/Memory.v=0*25783*26425
+C:/Users/Lama/Downloads/project/project/model/src/PC_reg.v=0*30117*30663
+C:/Users/Lama/Downloads/project/project/model/src/controlUnit.v=0*26948*28316
+C:/Users/Lama/Downloads/project/project/model/src/hazardDetect.v=0*39462*40334
+C:/Users/Lama/Downloads/project/project/model/src/mux4to1.v=0*31170*31685
+C:/Users/Lama/Downloads/project/project/model/src/registerFile.v=0*28844*29588
+LastVerilogToplevel=datapath_tb
+ModifyID=323
+Version=74
+c:/My_Designs/project/model/src/ALU.v=0*9760*10573
+c:/My_Designs/project/model/src/ALU.v_Ex_Mem.v_extender.v_ID_Ex.v_IF_ID.v_instructionDecoder.v_instructionMemory.v_Mem_Wb.v_Memory.v_mux2to1.v_mux4to1.v_PC_reg.v_registerFile.v_Registers.v=0*2570*6687
+c:/My_Designs/project/model/src/ALU.v_Ex_Mem.v_extender.v_ID_Ex.v_IF_ID.v_instructionDecoder.v_instructionMemory.v_Mem_Wb.v_Memory.v_mux2to1.v_mux4to1.v_PC_reg.v_registerFile.v_controlUnit.v=0*12060*16835
+c:/My_Designs/project/model/src/ALU.v_Ex_Mem.v_extender.v_ID_Ex.v_IF_ID.v_instructionDecoder.v_instructionMemory.v_Mem_Wb.v_mux2to1.v_mux4to1.v_PC_reg.v_registerFile.v_controlUnit.v=0*18687*23181
+c:/My_Designs/project/model/src/Mem_Wb.v=0*1537*2081
+c:/My_Designs/project/model/src/PC_reg.v=0*11059*11571
+c:/My_Designs/project/model/src/PCcontrol.v=0*8673*9268
+c:/My_Designs/project/model/src/controlUnit.v=0*23955*25289
+c:/My_Designs/project/model/src/extender.v=0*17634*18196
+c:/My_Designs/project/model/src/instructionDecoder.v=0*0*1020
+c:/My_Designs/project/model/src/registerFile.v=0*7468*8178
+
+[~MFT]
+0=28|0model.mgf|160245|10836
+1=48|1model.mgf|149391|59153
+2=0|2model.mgf|144935|0
+3=96|3model.mgf|100046|38528
+
+[$root]
+A/$root=22|||1*91202
+BinW64/$root=3*62125
+SLP=3*62240
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c921615a7208c7c2aa4c58e8f3620589d061e
+
+[ALU]
+A/ALU=22|../src/ALU.v|1|1*438
+BinW64/ALU=3*183
+NSymbols/alu=NSymbols/ALU 40|0|2*0
+R=../src/ALU.v|1
+SLP=3*2000
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b3eb40c25b2a3c0379c7730185183eec5ba632fe55c8b239a9a2c2e824e5c48f
+
+[Block1]
+A/Block1=22|../src/dataPath.v|1|1*1989
+BinW64/Block1=3*3054
+R=../src/dataPath.v|1
+SLP=3*3170
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|932f016c26c057486f29fdbfc927682e07b8667467a83f3a5d0f87ba1d01628f
+
+[Block1_tb]
+A/Block1_tb=22|../src/datapath_tb.v|3|1*16740
+BinW64/Block1_tb=3*3270
+R=../src/datapath_tb.v|3
+SLP=3*3994
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c24571c4f65835ac5426b3bff41fcec70f7ce5a768d781aa996f34a5bdeb297e3e2827ffdb9712606fea243906ab77f2
+
+[ByteAddressableMemory]
+A/ByteAddressableMemory=22|../src/Memory.v|1|1*125030
+BinW64/ByteAddressableMemory=3*90086
+NSymbols/byteaddressablememory=NSymbols/ByteAddressableMemory 40|0|2*3215
+R=../src/Memory.v|1
+SLP=3*91079
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|0d09f3987c9975571b84298e9aa252a5e963130ff00e15417a3f94d52db770d1d064405b3921b1d70c7f83a4c66994bb
+
+[EX_MEM]
+A/EX_MEM=22|../src/Ex_Mem.v|1|1*93945
+BinW64/EX_MEM=3*64758
+NSymbols/ex_mem=NSymbols/EX_MEM 40|0|2*6140
+R=../src/Ex_Mem.v|1
+SLP=3*65559
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|43d35b59784bc6cf4cebe586776e70351b84feb79bb39dc7b17bc71a4ca8048e
+
+[Extender]
+A/Extender=22|../src/extender.v|1|1*96652
+BinW64/Extender=3*66234
+NSymbols/extender=NSymbols/Extender 40|0|2*13725
+R=../src/extender.v|1
+SLP=3*67020
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|a261af10a9c686e7aecc5c2773f178128e9d9588c4ff5cca4594dc3e49d761f7d25f3313ebb9406f03ba1a059e88ab52
+
+[HazardForwardStallUnit]
+A/HazardForwardStallUnit=22|../src/hazardDetect.v|1|1*126894
+BinW64/HazardForwardStallUnit=3*91816
+NSymbols/hazardforwardstallunit=NSymbols/HazardForwardStallUnit 40|0|2*15976
+R=../src/hazardDetect.v|1
+SLP=3*93729
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|95d1ef9e0ddba65d6ae8fada50789710a85947e9bfc967b898975aab8c8d45d9230349a98be081e2052c476bfec4fd11
+
+[ID_EX]
+A/ID_EX=22|../src/ID_Ex.v|1|1*97932
+BinW64/ID_EX=3*67468
+NSymbols/id_ex=NSymbols/ID_EX 40|0|2*42631
+R=../src/ID_Ex.v|1
+SLP=3*68429
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|bd10c1779e81bbbc843a8819881a1cec905b23071ee0f0f0dca374c18ae166e0
+
+[IF_ID]
+A/IF_ID=22|../src/IF_ID.v|1|1*101268
+BinW64/IF_ID=3*69309
+NSymbols/if_id=NSymbols/IF_ID 40|0|2*52898
+R=../src/IF_ID.v|1
+SLP=3*70870
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|a129e128553cf383a30da3e0968e1bcbb3ba0981d50465f27b63c3dc4f28163e
+
+[InstructionMemory]
+A/InstructionMemory=22|../src/instructionMemory.v|1|1*109659
+BinW64/InstructionMemory=3*75534
+NSymbols/instructionmemory=NSymbols/InstructionMemory 40|0|2*76093
+R=../src/instructionMemory.v|1
+SLP=3*76190
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b86a443a1d82ec234d09f8a4c7b8cd6b46404b5c54a2301d05949f8e3043a72067a6e63d3158a7430181276de55d00c6
+
+[MEM_WB]
+A/MEM_WB=22|../src/Mem_Wb.v|1|1*110928
+BinW64/MEM_WB=3*76536
+NSymbols/mem_wb=NSymbols/MEM_WB 40|0|2*77390
+R=../src/Mem_Wb.v|1
+SLP=3*77229
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|39bae0a70df0b8bb15d6b08784945e23eb9cc09be7b495f8ebfa9029738f9b0a
+
+[MUX2to1]
+A/MUX2to1=22|../src/mux2to1.v|1|1*112759
+BinW64/MUX2to1=3*77685
+NSymbols/mux2to1=NSymbols/MUX2to1 40|0|2*81615
+R=../src/mux2to1.v|1
+SLP=3*78277
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|647e0081e84ceed199e6c532887cc97526527262ddaa47cb266f3a3c4d9b973a03df4ad46b8bc2d8b7a3c8171cce98f0
+
+[MUX4to1]
+A/MUX4to1=22|../src/mux4to1.v|1|1*113833
+BinW64/MUX4to1=3*78555
+NSymbols/mux4to1=NSymbols/MUX4to1 40|0|2*83506
+R=../src/mux4to1.v|1
+SLP=3*79206
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|9845c0c37d05201ce5b7a7e2acb5cece26527262ddaa47cb266f3a3c4d9b973a3056d32cef494d437984015fe926cb97
+
+[PCReg]
+A/PCReg=22|../src/PC_reg.v|1|1*115138
+BinW64/PCReg=3*79573
+NSymbols/pcreg=NSymbols/PCReg 40|0|2*86042
+R=../src/PC_reg.v|1
+SLP=3*80225
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|63ed8125abcfee36c276751c1d747a937e1863d34e74ed3abecc067dd63bea96
+
+[PC_Control_Unit]
+A/PC_Control_Unit=22|../src/PCcontrol.v|1|1*40254
+BinW64/PC_Control_Unit=3*21299
+R=../src/PCcontrol.v|1
+SLP=3*22051
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|4e87e5340915ea6cc1107abcf82f7381775113ff5c1450dd0245930730072f6ff7618f5934739b13c26036ef7449a5d2
+
+[RegisterAccess]
+A/RegisterAccess=22|../src/Registers.v|1|1*41915
+BinW64/RegisterAccess=3*22513
+R=../src/Registers.v|1
+SLP=3*23245
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|cd32c1f2d39714a6f89e0a23828bf020d46d09b30ad63d0acd86e00672fb5545b2242326a50580e24d8895af0e4f2a3a
+
+[add2]
+A/add2=22|../src/PC_reg.v|25|1*116480
+BinW64/add2=3*80619
+NSymbols/add2=40|0|2*88247
+R=../src/PC_reg.v|25
+SLP=3*81133
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|3c1cfc33d7f7145533e0b84f50e245ab391c5b8e52cf0a5b62f9643d3aff7e60
+
+[addImmToPC]
+A/addImmToPC=22|../src/addImmToPC.v|1|1*130431
+BinW64/addImmToPC=3*95823
+NSymbols/addimmtopc=NSymbols/addImmToPC 40|0|2*90622
+R=../src/addImmToPC.v|1
+SLP=3*96466
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|4f9d0bd3937f3b202e922cc94d584d0338c5c1cd699061a68b93a97c38fea8ea4c198739253e02969a5d714571aeeecf
+
+[alu]
+A/alu=22|../src/ALU.v|1|1*91640
+BinW64/alu=3*62308
+NSymbols/alu=40|0|2*94379
+R=../src/ALU.v|1
+SLP=3*64187
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|fdc9c85601beb4171a6a25c637e2168e40cef5549533669ec907d548c7c7d1cf
+
+[branchLogic]
+A/branchLogic=22|../src/branchLogic.v|1|1*148039
+BinW64/branchLogic=3*97826
+NSymbols/branchlogic=NSymbols/branchLogic 40|0|2*96263
+R=../src/branchLogic.v|1
+SLP=3*98908
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c94d26004d2e3c0bedd46f039f38cb8a9cbb22896a163b6f2a4d3963a8e99ac433f2a6b4e16d454996415937d8ab22e7
+
+[controlUnit]
+A/controlUnit=22|../src/controlUnit.v|1|1*49464
+BinW64/controlUnit=3*29415
+NSymbols/controlunit=NSymbols/controlUnit 40|0|2*101390
+R=../src/controlUnit.v|1
+SLP=3*35999
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|46b704757761f72fba12d18169f10673589928b93ab93a7bd15df33582cd62668cbb09a2589f94b38c4102350f9936d7
+
+[control_unit]
+A/control_unit=22|../src/controlUnit.v|1|1*56409
+BinW64/control_unit=3*40435
+NSymbols/control_unit=40|0|2*111825
+R=../src/controlUnit.v|1
+SLP=3*44191
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|62cdd31518126521df66462af92a6d2b711b818d9a1b2ffa542e7c475ffbd89808410fce9804e02f10dfa65145bc1628
+
+[datapath]
+A/datapath=22|../src/dataPath.v|2|1*132574
+BinW64/datapath=3*97603
+R=../src/dataPath.v|2
+SLP=3*97721
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|0690e804e35d05b935f6e645b24395cb3535cc8d9627fb93a836e16c28de7455765a56653a869a7fd9ff2740756c1b49
+
+[datapath_tb]
+A/datapath_tb=22|../src/datapath_tb.v|3|1*149391
+BinW64/datapath_tb=3*99412
+R=../src/datapath_tb.v|3
+SLP=3*100046
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|bf30bfd097be7745000fab2894cb176466e6231ed913a02c67cebeebbdef9e07b49598b15226a0d2de724960b345c0c5
+
+[instruction_decoder]
+A/instruction_decoder=22|../src/instructionDecoder.v|1|1*106579
+BinW64/instruction_decoder=3*72302
+NSymbols/instruction_decoder=40|0|2*122306
+R=../src/instructionDecoder.v|1
+SLP=3*74352
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ca35fc9534a8cfce866c0066a9a678c8b2cd37d5b0762b52c86445e85a30f1bc70476fc749ece5acf45bffc4631ba700
+
+[jumpLogic]
+A/jumpLogic=22|../src/jumpLogic.v|1|1*129207
+BinW64/jumpLogic=3*94860
+NSymbols/jumplogic=NSymbols/jumpLogic 40|0|2*131327
+R=../src/jumpLogic.v|1
+SLP=3*95500
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c27f000bc2d72aae29dfabf52dfaa35dca3f2bfb9615ce8da1628794c98150fe9f89f9ec5995f8ed210719b48bf5cc03
+
+[mux2x1Rd]
+A/mux2x1Rd=22|../src/IF_ID.v|66|1*105498
+BinW64/mux2x1Rd=3*71538
+NSymbols/mux2x1rd=NSymbols/mux2x1Rd 40|0|2*134896
+R=../src/IF_ID.v|66
+SLP=3*72032
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|3668c7e270d34c210f494ac73d01e940d7df70bf5744687890b925ac3a7017726f7f7a4975144f271812fd8b410862b3
+
+[register_file]
+A/register_file=22|../src/registerFile.v|1|1*117400
+BinW64/register_file=3*81320
+NSymbols/register_file=40|0|2*136771
+R=../src/registerFile.v|1
+SLP=3*83361
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|a396fecd832e4041f15ae1be4d0acbff9590461053dd9c77b27bc3f69d93ce399a713c243eee1bf4072ae6906989c6eb
+
+[returnLogic]
+A/returnLogic=22|../src/returnLogic.v|1|1*131536
+BinW64/returnLogic=3*96742
+NSymbols/returnlogic=NSymbols/returnLogic 40|0|2*141378
+R=../src/returnLogic.v|1
+SLP=3*97341
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|7a8546d956a819d93e64af2d68d6add1e2555385ff1d84c77fda0da08b499f76023888850ee05637d22e2b7b71ad8dac
+
+[signalsControlUnit]
+A/signalsControlUnit=22|../src/controlUnit.v|1|1*120467
+BinW64/signalsControlUnit=3*84402
+NSymbols/signalscontrolunit=NSymbols/signalsControlUnit 40|0|2*144935
+R=../src/controlUnit.v|1
+SLP=3*88081
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|297143b2c70a5387974a6afa9d14dca3f7fda3d08865db192014a1d1fd69b8cf4c5e739e515ea80bd6d7b9b59e18d60b
+
+[~U]
+$root=12|0*143105|
+ALU=12|0*133501||0x13
+Block1=12|0*133772|
+Block1_tb=12|0*134192||0x10
+ByteAddressableMemory=12|0*148120||0x3
+EX_MEM=12|0*143815||0x3
+Extender=12|0*144176||0x3
+HazardForwardStallUnit=12|0*148402||0x3
+ID_EX=12|0*144426||0x3
+IF_ID=12|0*144840||0x3
+InstructionMemory=12|0*145884||0x3
+MEM_WB=12|0*146104||0x3
+MUX2to1=12|0*146392||0x3
+MUX4to1=12|0*146607||0x3
+PCReg=12|0*146835||0x3
+PC_Control_Unit=12|0*137818||0x10
+RegisterAccess=12|0*138092||0x10
+add2=12|0*147062||0x3
+addImmToPC=12|0*149004||0x3
+alu=12|0*143543||0x3
+branchLogic=12|0*149901||0x3
+controlUnit=12|0*139324||0x13
+control_unit=12|0*139942||0x13
+datapath=12|0*149468|
+datapath_tb=12|0*150160||0x10
+instruction_decoder=12|0*145503||0x3
+jumpLogic=12|0*148768||0x3
+mux2x1Rd=12|0*145283||0x3
+register_file=12|0*147255||0x3
+returnLogic=12|0*149239||0x3
+signalsControlUnit=12|0*147616||0x3
